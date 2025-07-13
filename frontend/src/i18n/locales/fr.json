@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "findHelp": "Trouver de l'aide",
+    "becomeHelper": "Devenir assistant",
+    "dashboard": "Tableau de bord",
+    "login": "Se connecter",
+    "signup": "S'inscrire",
+    "logout": "Se déconnecter",
+    "profile": "Profil"
+  },
+  "hero": {
+    "titleSeeker": "Obtenez de l'aide pour les tâches quotidiennes",
+    "titleHelper": "Gagnez de l'argent en aidant votre communauté",
+    "subtitleSeeker": "Connectez-vous avec des assistants locaux de confiance",
+    "subtitleHelper": "Utilisez vos compétences pour aider vos voisins",
+    "ctaSeeker": "Demander de l'aide",
+    "ctaHelper": "Commencer à aider",
+    "switchToHelper": "Voulez-vous devenir assistant?",
+    "switchToSeeker": "Besoin d'aide pour quelque chose?"
+  },
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "step1": { "title": "Publiez votre tâche", "description": "Décrivez ce dont vous avez besoin" },
+    "step2": { "title": "Choisissez votre assistant", "description": "Examinez les offres et sélectionnez" },
+    "step3": { "title": "Paiement sécurisé", "description": "Payez en toute sécurité via notre plateforme" },
+    "step4": { "title": "Évaluez et commentez", "description": "Partagez votre expérience" }
+  },
+  "auth": {
+    "login": "Se connecter", "signup": "S'inscrire", "email": "E-mail", "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe", "firstName": "Prénom", "lastName": "Nom",
+    "phone": "Téléphone", "userType": "Je veux", "seeker": "Obtenir de l'aide", "helper": "Offrir de l'aide",
+    "loginButton": "Se connecter", "signupButton": "Créer un compte", "forgotPassword": "Mot de passe oublié?",
+    "alreadyHaveAccount": "Vous avez déjà un compte?", "noAccount": "Vous n'avez pas de compte?",
+    "invalidCredentials": "E-mail ou mot de passe invalide", "registrationSuccess": "Compte créé avec succès!",
+    "loginSuccess": "Bon retour!"
+  },
+  "tasks": {
+    "title": "Tâches disponibles", "createTask": "Publier une nouvelle tâche", "taskTitle": "Titre de la tâche",
+    "description": "Description", "category": "Catégorie", "budget": "Budget", "urgency": "Urgence",
+    "location": "Lieu", "urgent": "Urgent", "medium": "Priorité moyenne", "low": "Priorité faible",
+    "submit": "Publier la tâche", "viewBids": "Voir les offres", "noBids": "Pas encore d'offres", "placeBid": "Faire une offre"
+  },
+  "map": {
+    "title": "Trouvez des assistants près de chez vous", "helper": "Assistant", "rating": "Évaluation",
+    "rate": "Tarif", "away": "loin", "viewProfile": "Voir le profil", "sendMessage": "Envoyer un message"
+  },
+  "profile": {
+    "title": "Profil", "edit": "Modifier le profil", "save": "Enregistrer les modifications",
+    "skills": "Compétences", "hourlyRate": "Tarif horaire", "bio": "À propos de moi",
+    "availability": "Disponibilité", "serviceRadius": "Rayon de service", "km": "km",
+    "goOnline": "Se mettre en ligne", "goOffline": "Se mettre hors ligne", "verifyId": "Vérifier l'ID",
+    "backgroundCheck": "Vérification des antécédents"
+  },
+  "dashboard": {
+    "title": "Tableau de bord", "myTasks": "Mes tâches", "earnings": "Gains", "messages": "Messages",
+    "reviews": "Avis", "activeRequests": "Demandes actives", "completedTasks": "Tâches terminées",
+    "totalEarnings": "Gains totaux", "avgRating": "Note moyenne"
+  },
+  "payment": {
+    "title": "Paiement", "amount": "Montant", "platformFee": "Frais de plateforme", "total": "Total",
+    "payNow": "Payer maintenant", "paymentProtection": "Garantie de protection des paiements",
+    "securePayment": "Votre paiement est sécurisé et protégé"
+  },
+  "chat": {
+    "title": "Messages", "typeMessage": "Tapez votre message...", "send": "Envoyer",
+    "online": "En ligne", "offline": "Hors ligne"
+  },
+  "common": {
+    "loading": "Chargement...", "error": "Quelque chose s'est mal passé", "retry": "Réessayer",
+    "save": "Enregistrer", "cancel": "Annuler", "delete": "Supprimer", "edit": "Modifier",
+    "view": "Voir", "close": "Fermer", "next": "Suivant", "previous": "Précédent",
+    "search": "Rechercher", "filter": "Filtrer", "sort": "Trier", "selectLanguage": "Sélectionner la langue"
+  },
+  "footer": {
+    "about": "À propos", "contact": "Contact", "terms": "Conditions générales",
+    "privacy": "Politique de confidentialité", "help": "Centre d'aide", "social": "Suivez-nous"
+  },
+  "faq": {
+    "title": "Questions fréquemment posées", "fees": "Quels sont les frais?",
+    "feesAnswer": "Les demandeurs paient 5% de frais de plateforme, les assistants paient 10% de commission par transaction",
+    "safety": "Comment assurez-vous la sécurité?", "safetyAnswer": "Tous les assistants subissent une vérification d'identité",
+    "payments": "Comment fonctionnent les paiements?", "paymentsAnswer": "Les paiements sont détenus en sécurité jusqu'à l'achèvement de la tâche"
+  }
+}

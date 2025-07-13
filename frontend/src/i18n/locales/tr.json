@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "findHelp": "Yardım Bul",
+    "becomeHelper": "Yardımcı Ol",
+    "dashboard": "Panel",
+    "login": "Giriş Yap",
+    "signup": "Kayıt Ol",
+    "logout": "Çıkış Yap",
+    "profile": "Profil"
+  },
+  "hero": {
+    "titleSeeker": "Günlük işleriniz için yardım alın",
+    "titleHelper": "Topluluğunuza yardım ederek para kazanın",
+    "subtitleSeeker": "Ev işleri, koşuşturma ve daha fazlası için güvenilir yerel yardımcılarla bağlantı kurun",
+    "subtitleHelper": "Becerilerinizi komşularınıza yardım etmek ve ekstra gelir elde etmek için kullanın",
+    "ctaSeeker": "Yardım İste",
+    "ctaHelper": "Yardım Etmeye Başla",
+    "switchToHelper": "Yardımcı olmak ister misiniz?",
+    "switchToSeeker": "Bir konuda yardıma ihtiyacınız var mı?"
+  },
+  "howItWorks": {
+    "title": "Nasıl Çalışır",
+    "step1": {
+      "title": "Görevinizi Yayınlayın",
+      "description": "Neye yardıma ihtiyacınız olduğunu açıklayın ve bütçenizi belirleyin"
+    },
+    "step2": {
+      "title": "Yardımcınızı Seçin",
+      "description": "Doğrulanmış yardımcılardan gelen teklifleri inceleyin ve en iyisini seçin"
+    },
+    "step3": {
+      "title": "Güvenli Ödeme",
+      "description": "Ödeme korumasıyla platformumuz aracılığıyla güvenle ödeme yapın"
+    },
+    "step4": {
+      "title": "Değerlendirin ve Yorum Yapın",
+      "description": "Deneyiminizi paylaşarak topluluğumuzda güven oluşturmaya yardımcı olun"
+    }
+  },
+  "auth": {
+    "login": "Giriş Yap",
+    "signup": "Kayıt Ol",
+    "email": "E-posta",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi Onayla",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "phone": "Telefon Numarası",
+    "userType": "İstiyorum",
+    "seeker": "Yardım Al",
+    "helper": "Yardım Teklif Et",
+    "loginButton": "Giriş Yap",
+    "signupButton": "Hesap Oluştur",
+    "forgotPassword": "Şifremi Unuttum?",
+    "alreadyHaveAccount": "Zaten hesabınız var mı?",
+    "noAccount": "Hesabınız yok mu?",
+    "invalidCredentials": "Geçersiz e-posta veya şifre",
+    "registrationSuccess": "Hesap başarıyla oluşturuldu!",
+    "loginSuccess": "Tekrar hoş geldiniz!"
+  },
+  "tasks": {
+    "title": "Mevcut Görevler",
+    "createTask": "Yeni Görev Yayınla",
+    "taskTitle": "Görev Başlığı",
+    "description": "Açıklama",
+    "category": "Kategori",
+    "budget": "Bütçe",
+    "urgency": "Aciliyet",
+    "location": "Konum",
+    "urgent": "Acil",
+    "medium": "Orta Öncelik",
+    "low": "Düşük Öncelik",
+    "submit": "Görevi Yayınla",
+    "viewBids": "Teklifleri Görüntüle",
+    "noBids": "Henüz teklif yok",
+    "placeBid": "Teklif Ver"
+  },
+  "map": {
+    "title": "Yakınınızdaki Yardımcıları Bulun",
+    "helper": "Yardımcı",
+    "rating": "Değerlendirme",
+    "rate": "Oran",
+    "away": "uzakta",
+    "viewProfile": "Profili Görüntüle",
+    "sendMessage": "Mesaj Gönder"
+  },
+  "profile": {
+    "title": "Profil",
+    "edit": "Profili Düzenle",
+    "save": "Değişiklikleri Kaydet",
+    "skills": "Beceriler",
+    "hourlyRate": "Saatlik Ücret",
+    "bio": "Hakkımda",
+    "availability": "Müsaitlik",
+    "serviceRadius": "Hizmet Yarıçapı",
+    "km": "km",
+    "goOnline": "Çevrimiçi Ol",
+    "goOffline": "Çevrimdışı Ol",
+    "verifyId": "Kimlik Doğrula",
+    "backgroundCheck": "Arkaplan Kontrolü"
+  },
+  "dashboard": {
+    "title": "Panel",
+    "myTasks": "Görevlerim",
+    "earnings": "Kazançlar",
+    "messages": "Mesajlar",
+    "reviews": "Değerlendirmeler",
+    "activeRequests": "Aktif İstekler",
+    "completedTasks": "Tamamlanan Görevler",
+    "totalEarnings": "Toplam Kazanç",
+    "avgRating": "Ortalama Değerlendirme"
+  },
+  "payment": {
+    "title": "Ödeme",
+    "amount": "Tutar",
+    "platformFee": "Platform Ücreti",
+    "total": "Toplam",
+    "payNow": "Şimdi Öde",
+    "paymentProtection": "Ödeme Koruma Garantisi",
+    "securePayment": "Ödemeniz güvenli ve korumalı"
+  },
+  "chat": {
+    "title": "Mesajlar",
+    "typeMessage": "Mesajınızı yazın...",
+    "send": "Gönder",
+    "online": "Çevrimiçi",
+    "offline": "Çevrimdışı"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir şeyler ters gitti",
+    "retry": "Tekrar Dene",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "view": "Görüntüle",
+    "close": "Kapat",
+    "next": "Sonraki",
+    "previous": "Önceki",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "selectLanguage": "Dil Seçin"
+  },
+  "footer": {
+    "about": "Hakkında",
+    "contact": "İletişim",
+    "terms": "Şartlar ve Koşullar",
+    "privacy": "Gizlilik Politikası",
+    "help": "Yardım Merkezi",
+    "social": "Bizi Takip Edin"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "fees": "Ücretler nelerdir?",
+    "feesAnswer": "Yardım isteyenler %5 platform ücreti, Yardımcılar işlem başına %10 komisyon öder",
+    "safety": "Güvenliği nasıl sağlıyorsunuz?",
+    "safetyAnswer": "Tüm yardımcılar kimlik doğrulama ve isteğe bağlı arkaplan kontrolleri geçirir",
+    "payments": "Ödemeler nasıl çalışır?",
+    "paymentsAnswer": "Ödemeler tam koruma garantisi ile görev tamamlanana kadar güvenli bir şekilde tutulur"
+  }
+}
