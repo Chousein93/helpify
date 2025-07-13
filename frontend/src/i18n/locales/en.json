@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "home": "Home",
+    "findHelp": "Find Help",
+    "becomeHelper": "Become a Helper",
+    "dashboard": "Dashboard",
+    "login": "Log In",
+    "signup": "Sign Up",
+    "logout": "Log Out",
+    "profile": "Profile"
+  },
+  "hero": {
+    "titleSeeker": "Get help for everyday tasks",
+    "titleHelper": "Earn money helping your community",
+    "subtitleSeeker": "Connect with trusted local helpers for household tasks, errands, and more",
+    "subtitleHelper": "Use your skills to help neighbors and earn extra income",
+    "ctaSeeker": "Request Help",
+    "ctaHelper": "Start Helping",
+    "switchToHelper": "Want to become a helper?",
+    "switchToSeeker": "Need help with something?"
+  },
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Post Your Task",
+      "description": "Describe what you need help with and set your budget"
+    },
+    "step2": {
+      "title": "Choose Your Helper",
+      "description": "Review bids from verified helpers and select the best one"
+    },
+    "step3": {
+      "title": "Secure Payment",
+      "description": "Pay safely through our platform with payment protection"
+    },
+    "step4": {
+      "title": "Rate & Review",
+      "description": "Share your experience to help build trust in our community"
+    }
+  },
+  "auth": {
+    "login": "Log In",
+    "signup": "Sign Up",
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "firstName": "First Name",
+    "lastName": "Last Name",
+    "phone": "Phone Number",
+    "userType": "I want to",
+    "seeker": "Get Help",
+    "helper": "Offer Help",
+    "loginButton": "Log In",
+    "signupButton": "Create Account",
+    "forgotPassword": "Forgot Password?",
+    "alreadyHaveAccount": "Already have an account?",
+    "noAccount": "Don't have an account?",
+    "invalidCredentials": "Invalid email or password",
+    "registrationSuccess": "Account created successfully!",
+    "loginSuccess": "Welcome back!"
+  },
+  "tasks": {
+    "title": "Available Tasks",
+    "createTask": "Post New Task",
+    "taskTitle": "Task Title",
+    "description": "Description",
+    "category": "Category",
+    "budget": "Budget",
+    "urgency": "Urgency",
+    "location": "Location",
+    "urgent": "Urgent",
+    "medium": "Medium Priority",
+    "low": "Low Priority",
+    "submit": "Post Task",
+    "viewBids": "View Bids",
+    "noBids": "No bids yet",
+    "placeBid": "Place Bid"
+  },
+  "map": {
+    "title": "Find Helpers Near You",
+    "helper": "Helper",
+    "rating": "Rating",
+    "rate": "Rate",
+    "away": "away",
+    "viewProfile": "View Profile",
+    "sendMessage": "Send Message"
+  },
+  "profile": {
+    "title": "Profile",
+    "edit": "Edit Profile",
+    "save": "Save Changes",
+    "skills": "Skills",
+    "hourlyRate": "Hourly Rate",
+    "bio": "About Me",
+    "availability": "Availability",
+    "serviceRadius": "Service Radius",
+    "km": "km",
+    "goOnline": "Go Online",
+    "goOffline": "Go Offline",
+    "verifyId": "Verify ID",
+    "backgroundCheck": "Background Check"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "myTasks": "My Tasks",
+    "earnings": "Earnings",
+    "messages": "Messages",
+    "reviews": "Reviews",
+    "activeRequests": "Active Requests",
+    "completedTasks": "Completed Tasks",
+    "totalEarnings": "Total Earnings",
+    "avgRating": "Average Rating"
+  },
+  "payment": {
+    "title": "Payment",
+    "amount": "Amount",
+    "platformFee": "Platform Fee",
+    "total": "Total",
+    "payNow": "Pay Now",
+    "paymentProtection": "Payment Protection Guarantee",
+    "securePayment": "Your payment is secure and protected"
+  },
+  "chat": {
+    "title": "Messages",
+    "typeMessage": "Type your message...",
+    "send": "Send",
+    "online": "Online",
+    "offline": "Offline"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "retry": "Try Again",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "selectLanguage": "Select Language"
+  },
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "help": "Help Center",
+    "social": "Follow Us"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "fees": "What are the fees?",
+    "feesAnswer": "Seekers pay 5% platform fee, Helpers pay 10% commission per transaction",
+    "safety": "How do you ensure safety?",
+    "safetyAnswer": "All helpers undergo ID verification and optional background checks",
+    "payments": "How do payments work?",
+    "paymentsAnswer": "Payments are held securely until task completion with full protection guarantee"
+  }
+}

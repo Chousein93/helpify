@@ -1,0 +1,164 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "findHelp": "Hilfe finden",
+    "becomeHelper": "Helfer werden",
+    "dashboard": "Dashboard",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "logout": "Abmelden",
+    "profile": "Profil"
+  },
+  "hero": {
+    "titleSeeker": "Hilfe für alltägliche Aufgaben finden",
+    "titleHelper": "Geld verdienen, indem Sie Ihrer Gemeinde helfen",
+    "subtitleSeeker": "Verbinden Sie sich mit vertrauenswürdigen lokalen Helfern für Hausarbeiten, Besorgungen und mehr",
+    "subtitleHelper": "Nutzen Sie Ihre Fähigkeiten, um Nachbarn zu helfen und zusätzliches Einkommen zu erzielen",
+    "ctaSeeker": "Hilfe anfordern",
+    "ctaHelper": "Helfen beginnen",
+    "switchToHelper": "Möchten Sie Helfer werden?",
+    "switchToSeeker": "Brauchen Sie Hilfe bei etwas?"
+  },
+  "howItWorks": {
+    "title": "Wie es funktioniert",
+    "step1": {
+      "title": "Ihre Aufgabe posten",
+      "description": "Beschreiben Sie, wobei Sie Hilfe benötigen und setzen Sie Ihr Budget"
+    },
+    "step2": {
+      "title": "Ihren Helfer wählen",
+      "description": "Bewerten Sie Angebote von verifizierten Helfern und wählen Sie den besten aus"
+    },
+    "step3": {
+      "title": "Sichere Zahlung",
+      "description": "Zahlen Sie sicher über unsere Plattform mit Zahlungsschutz"
+    },
+    "step4": {
+      "title": "Bewerten & Rezensieren",
+      "description": "Teilen Sie Ihre Erfahrung, um Vertrauen in unserer Gemeinschaft aufzubauen"
+    }
+  },
+  "auth": {
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "phone": "Telefonnummer",
+    "userType": "Ich möchte",
+    "seeker": "Hilfe bekommen",
+    "helper": "Hilfe anbieten",
+    "loginButton": "Anmelden",
+    "signupButton": "Konto erstellen",
+    "forgotPassword": "Passwort vergessen?",
+    "alreadyHaveAccount": "Haben Sie bereits ein Konto?",
+    "noAccount": "Haben Sie kein Konto?",
+    "invalidCredentials": "Ungültige E-Mail oder Passwort",
+    "registrationSuccess": "Konto erfolgreich erstellt!",
+    "loginSuccess": "Willkommen zurück!"
+  },
+  "tasks": {
+    "title": "Verfügbare Aufgaben",
+    "createTask": "Neue Aufgabe posten",
+    "taskTitle": "Aufgabentitel",
+    "description": "Beschreibung",
+    "category": "Kategorie",
+    "budget": "Budget",
+    "urgency": "Dringlichkeit",
+    "location": "Standort",
+    "urgent": "Dringend",
+    "medium": "Mittlere Priorität",
+    "low": "Niedrige Priorität",
+    "submit": "Aufgabe posten",
+    "viewBids": "Angebote anzeigen",
+    "noBids": "Noch keine Angebote",
+    "placeBid": "Angebot abgeben"
+  },
+  "map": {
+    "title": "Helfer in Ihrer Nähe finden",
+    "helper": "Helfer",
+    "rating": "Bewertung",
+    "rate": "Rate",
+    "away": "entfernt",
+    "viewProfile": "Profil anzeigen",
+    "sendMessage": "Nachricht senden"
+  },
+  "profile": {
+    "title": "Profil",
+    "edit": "Profil bearbeiten",
+    "save": "Änderungen speichern",
+    "skills": "Fähigkeiten",
+    "hourlyRate": "Stundensatz",
+    "bio": "Über mich",
+    "availability": "Verfügbarkeit",
+    "serviceRadius": "Service-Radius",
+    "km": "km",
+    "goOnline": "Online gehen",
+    "goOffline": "Offline gehen",
+    "verifyId": "ID verifizieren",
+    "backgroundCheck": "Hintergrundprüfung"
+  },
+  "dashboard": {
+    "title": "Dashboard",
+    "myTasks": "Meine Aufgaben",
+    "earnings": "Verdienste",
+    "messages": "Nachrichten",
+    "reviews": "Bewertungen",
+    "activeRequests": "Aktive Anfragen",
+    "completedTasks": "Abgeschlossene Aufgaben",
+    "totalEarnings": "Gesamtverdienst",
+    "avgRating": "Durchschnittsbewertung"
+  },
+  "payment": {
+    "title": "Zahlung",
+    "amount": "Betrag",
+    "platformFee": "Plattformgebühr",
+    "total": "Gesamt",
+    "payNow": "Jetzt bezahlen",
+    "paymentProtection": "Zahlungsschutz-Garantie",
+    "securePayment": "Ihre Zahlung ist sicher und geschützt"
+  },
+  "chat": {
+    "title": "Nachrichten",
+    "typeMessage": "Ihre Nachricht eingeben...",
+    "send": "Senden",
+    "online": "Online",
+    "offline": "Offline"
+  },
+  "common": {
+    "loading": "Laden...",
+    "error": "Etwas ist schiefgelaufen",
+    "retry": "Erneut versuchen",
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "delete": "Löschen",
+    "edit": "Bearbeiten",
+    "view": "Anzeigen",
+    "close": "Schließen",
+    "next": "Weiter",
+    "previous": "Zurück",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "selectLanguage": "Sprache auswählen"
+  },
+  "footer": {
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "terms": "AGB",
+    "privacy": "Datenschutz",
+    "help": "Hilfe-Center",
+    "social": "Folgen Sie uns"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "fees": "Welche Gebühren fallen an?",
+    "feesAnswer": "Suchende zahlen 5% Plattformgebühr, Helfer zahlen 10% Provision pro Transaktion",
+    "safety": "Wie stellen Sie die Sicherheit sicher?",
+    "safetyAnswer": "Alle Helfer durchlaufen ID-Verifizierung und optionale Hintergrundprüfungen",
+    "payments": "Wie funktionieren Zahlungen?",
+    "paymentsAnswer": "Zahlungen werden sicher bis zur Aufgabenerfüllung mit vollständiger Schutzgarantie gehalten"
+  }
+}
