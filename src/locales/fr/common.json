@@ -1,0 +1,98 @@
+{
+  "appName": "HelperHand",
+  "tagline": "Les voisins s'entraident",
+  "heroTitle": "Obtenez de l'aide pour les tâches quotidiennes",
+  "heroSubtitle": "Connectez-vous avec des assistants de confiance dans votre communauté",
+  "heroTitleHelper": "Gagnez de l'argent en aidant votre communauté",
+  "heroSubtitleHelper": "Partagez vos compétences et faites la différence",
+  
+  "navigation": {
+    "home": "Accueil",
+    "findHelp": "Trouver de l'aide",
+    "becomeHelper": "Devenir assistant",
+    "dashboard": "Tableau de bord",
+    "messages": "Messages",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "logout": "Déconnexion"
+  },
+  
+  "buttons": {
+    "getStarted": "Commencer",
+    "requestHelp": "Demander de l'aide",
+    "goOnline": "Se connecter",
+    "goOffline": "Se déconnecter",
+    "submitRequest": "Soumettre la demande",
+    "sendOffer": "Envoyer une offre",
+    "acceptOffer": "Accepter l'offre",
+    "markComplete": "Marquer comme terminé",
+    "saveChanges": "Sauvegarder les modifications",
+    "cancel": "Annuler",
+    "confirm": "Confirmer",
+    "back": "Retour",
+    "next": "Suivant"
+  },
+  
+  "howItWorks": {
+    "title": "Comment ça marche",
+    "step1": {
+      "title": "Publiez votre demande",
+      "description": "Décrivez l'aide dont vous avez besoin et fixez votre budget"
+    },
+    "step2": {
+      "title": "Choisissez votre assistant",
+      "description": "Parcourez les offres d'assistants vérifiés dans votre région"
+    },
+    "step3": {
+      "title": "Paiement sécurisé",
+      "description": "Payez en toute sécurité via notre plateforme avec protection de paiement"
+    },
+    "step4": {
+      "title": "Évaluez",
+      "description": "Partagez votre expérience pour aider à construire la confiance dans notre communauté"
+    }
+  },
+  
+  "features": {
+    "verifiedHelpers": "Assistants vérifiés",
+    "verifiedHelpersDesc": "Tous les assistants subissent une vérification d'identité pour votre sécurité",
+    "securePayments": "Paiements sécurisés",
+    "securePaymentsDesc": "Protection de paiement avec service d'entiercement",
+    "realTimeChat": "Chat en temps réel",
+    "realTimeChatDesc": "Communiquez en toute sécurité avec votre assistant",
+    "communityRatings": "Évaluations communautaires",
+    "communityRatingsDesc": "Lisez les avis d'autres membres de la communauté"
+  },
+  
+  "userTypes": {
+    "seeker": "J'ai besoin d'aide",
+    "helper": "Je veux aider"
+  },
+  
+  "auth": {
+    "login": "Se connecter à HelperHand",
+    "signup": "Rejoindre HelperHand",
+    "email": "Adresse e-mail",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "phone": "Numéro de téléphone",
+    "forgotPassword": "Mot de passe oublié?",
+    "noAccount": "Pas de compte?",
+    "hasAccount": "Déjà un compte?",
+    "signupLink": "S'inscrire ici",
+    "loginLink": "Se connecter ici"
+  },
+  
+  "common": {
+    "loading": "Chargement...",
+    "error": "Quelque chose s'est mal passé",
+    "success": "Succès!",
+    "currency": "€",
+    "perHour": "par heure",
+    "online": "En ligne",
+    "offline": "Hors ligne",
+    "verified": "Vérifié"
+  }
+}

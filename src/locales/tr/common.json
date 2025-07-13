@@ -1,0 +1,168 @@
+{
+  "appName": "HelperHand",
+  "tagline": "Komşular komşulara yardım ediyor",
+  "heroTitle": "Günlük işleriniz için yardım alın",
+  "heroSubtitle": "Topluluğunuzdaki güvenilir yardımcılarla bağlantı kurun",
+  "heroTitleHelper": "Topluluğunuza yardım ederek para kazanın",
+  "heroSubtitleHelper": "Becerilerinizi paylaşın ve fark yaratın",
+  
+  "navigation": {
+    "home": "Ana Sayfa",
+    "findHelp": "Yardım Bul",
+    "becomeHelper": "Yardımcı Ol",
+    "dashboard": "Panel",
+    "messages": "Mesajlar",
+    "login": "Giriş",
+    "signup": "Kayıt Ol",
+    "logout": "Çıkış"
+  },
+  
+  "buttons": {
+    "getStarted": "Başlayın",
+    "requestHelp": "Yardım İste",
+    "goOnline": "Çevrimiçi Ol",
+    "goOffline": "Çevrimdışı Ol",
+    "submitRequest": "Talebi Gönder",
+    "sendOffer": "Teklif Gönder",
+    "acceptOffer": "Teklifi Kabul Et",
+    "markComplete": "Tamamlandı Olarak İşaretle",
+    "saveChanges": "Değişiklikleri Kaydet",
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "back": "Geri",
+    "next": "İleri"
+  },
+  
+  "howItWorks": {
+    "title": "Nasıl Çalışır",
+    "step1": {
+      "title": "Talebinizi Gönderin",
+      "description": "İhtiyacınız olan yardımı açıklayın ve bütçenizi belirleyin"
+    },
+    "step2": {
+      "title": "Yardımcınızı Seçin",
+      "description": "Bölgenizdeki doğrulanmış yardımcılardan teklifleri inceleyin"
+    },
+    "step3": {
+      "title": "Güvenli Ödeme",
+      "description": "Ödeme koruması ile platformumuz üzerinden güvenle ödeyin"
+    },
+    "step4": {
+      "title": "Değerlendirin",
+      "description": "Topluluğumuzda güven oluşturmaya yardımcı olmak için deneyiminizi paylaşın"
+    }
+  },
+  
+  "features": {
+    "verifiedHelpers": "Doğrulanmış Yardımcılar",
+    "verifiedHelpersDesc": "Güvenliğiniz için tüm yardımcılar kimlik doğrulamasından geçer",
+    "securePayments": "Güvenli Ödemeler",
+    "securePaymentsDesc": "Emanet hizmeti ile ödeme koruması",
+    "realTimeChat": "Anlık Mesajlaşma",
+    "realTimeChatDesc": "Yardımcınızla güvenli bir şekilde iletişim kurun",
+    "communityRatings": "Topluluk Değerlendirmeleri",
+    "communityRatingsDesc": "Diğer topluluk üyelerinin yorumlarını okuyun"
+  },
+  
+  "userTypes": {
+    "seeker": "Yardıma ihtiyacım var",
+    "helper": "Yardım etmek istiyorum"
+  },
+  
+  "auth": {
+    "login": "HelperHand'e Giriş Yap",
+    "signup": "HelperHand'e Katıl",
+    "email": "E-posta adresi",
+    "password": "Şifre",
+    "confirmPassword": "Şifreyi onayla",
+    "firstName": "Ad",
+    "lastName": "Soyad",
+    "phone": "Telefon numarası",
+    "forgotPassword": "Şifrenizi mi unuttunuz?",
+    "noAccount": "Hesabınız yok mu?",
+    "hasAccount": "Zaten hesabınız var mı?",
+    "signupLink": "Buradan kayıt olun",
+    "loginLink": "Buradan giriş yapın"
+  },
+  
+  "dashboard": {
+    "welcome": "Tekrar hoş geldiniz",
+    "activeRequests": "Aktif Talepler",
+    "earnings": "Kazançlar",
+    "rating": "Değerlendirme",
+    "completedTasks": "Tamamlanan Görevler",
+    "profile": "Profil",
+    "settings": "Ayarlar",
+    "payments": "Ödemeler",
+    "history": "Geçmiş"
+  },
+  
+  "profile": {
+    "personalInfo": "Kişisel Bilgiler",
+    "skills": "Beceriler",
+    "availability": "Müsaitlik",
+    "serviceRadius": "Hizmet Yarıçapı",
+    "hourlyRate": "Saatlik Ücret",
+    "idVerification": "Kimlik Doğrulama",
+    "backgroundCheck": "Geçmiş Kontrolü"
+  },
+  
+  "requestForm": {
+    "title": "Yardım İste",
+    "taskTitle": "Hangi konuda yardıma ihtiyacınız var?",
+    "description": "Görevinizi detaylı olarak açıklayın",
+    "budget": "Bütçe",
+    "urgency": "Aciliyet",
+    "location": "Konum",
+    "urgent": "Acil",
+    "normal": "Normal",
+    "flexible": "Esnek"
+  },
+  
+  "common": {
+    "loading": "Yükleniyor...",
+    "error": "Bir şeyler ters gitti",
+    "success": "Başarılı!",
+    "save": "Kaydet",
+    "edit": "Düzenle",
+    "delete": "Sil",
+    "search": "Ara",
+    "filter": "Filtrele",
+    "sort": "Sırala",
+    "currency": "€",
+    "perHour": "saatte",
+    "online": "Çevrimiçi",
+    "offline": "Çevrimdışı",
+    "verified": "Doğrulanmış",
+    "pending": "Beklemede",
+    "completed": "Tamamlandı",
+    "cancelled": "İptal Edildi"
+  },
+  
+  "footer": {
+    "about": "Hakkında",
+    "contact": "İletişim",
+    "terms": "Şartlar ve Koşullar",
+    "privacy": "Gizlilik Politikası",
+    "help": "Yardım Merkezi",
+    "safety": "Güvenlik",
+    "fees": "Ücretler",
+    "description": "HelperHand komşuları birbirine bağlayarak herkesin hayatını kolaylaştırır. Güvenli, emniyetli ve topluluk odaklı."
+  },
+  
+  "faq": {
+    "title": "Sıkça Sorulan Sorular",
+    "fees": {
+      "question": "Ücretler nedir?",
+      "answer": "Yardım alanlar %5 hizmet ücreti, Yardımcılar işlem başına %10 komisyon öder."
+    },
+    "safety": {
+      "question": "Güvenliği nasıl sağlıyorsunuz?",
+      "answer": "Tüm yardımcılar kimlik doğrulamasından geçer ve güvenli emanet ile ödeme koruması sunarız."
+    },
+    "payments": {
+      "question": "Ödemeler nasıl çalışır?",
+      "answer": "Ödemeler görev tamamlanana kadar emanette tutulur. Tüm major ödeme yöntemlerini destekliyoruz."
+    }
+  }
+}

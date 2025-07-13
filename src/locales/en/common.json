@@ -1,0 +1,168 @@
+{
+  "appName": "HelperHand",
+  "tagline": "Neighbors helping neighbors",
+  "heroTitle": "Get help for everyday tasks",
+  "heroSubtitle": "Connect with trusted helpers in your community",
+  "heroTitleHelper": "Earn money helping your community",
+  "heroSubtitleHelper": "Share your skills and make a difference",
+  
+  "navigation": {
+    "home": "Home",
+    "findHelp": "Find Help",
+    "becomeHelper": "Become Helper",
+    "dashboard": "Dashboard",
+    "messages": "Messages",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  
+  "buttons": {
+    "getStarted": "Get Started",
+    "requestHelp": "Request Help",
+    "goOnline": "Go Online",
+    "goOffline": "Go Offline",
+    "submitRequest": "Submit Request",
+    "sendOffer": "Send Offer",
+    "acceptOffer": "Accept Offer",
+    "markComplete": "Mark Complete",
+    "saveChanges": "Save Changes",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "back": "Back",
+    "next": "Next"
+  },
+  
+  "howItWorks": {
+    "title": "How It Works",
+    "step1": {
+      "title": "Post Your Request",
+      "description": "Describe what help you need and set your budget"
+    },
+    "step2": {
+      "title": "Choose Your Helper",
+      "description": "Browse offers from verified helpers in your area"
+    },
+    "step3": {
+      "title": "Secure Payment",
+      "description": "Pay safely through our platform with payment protection"
+    },
+    "step4": {
+      "title": "Rate & Review",
+      "description": "Share your experience to help build trust in our community"
+    }
+  },
+  
+  "features": {
+    "verifiedHelpers": "Verified Helpers",
+    "verifiedHelpersDesc": "All helpers undergo ID verification for your safety",
+    "securePayments": "Secure Payments",
+    "securePaymentsDesc": "Payment protection with escrow service",
+    "realTimeChat": "Real-time Chat",
+    "realTimeChatDesc": "Communicate securely with your helper",
+    "communityRatings": "Community Ratings",
+    "communityRatingsDesc": "Read reviews from other community members"
+  },
+  
+  "userTypes": {
+    "seeker": "I need help",
+    "helper": "I want to help"
+  },
+  
+  "auth": {
+    "login": "Login to HelperHand",
+    "signup": "Join HelperHand",
+    "email": "Email address",
+    "password": "Password",
+    "confirmPassword": "Confirm password",
+    "firstName": "First name",
+    "lastName": "Last name",
+    "phone": "Phone number",
+    "forgotPassword": "Forgot your password?",
+    "noAccount": "Don't have an account?",
+    "hasAccount": "Already have an account?",
+    "signupLink": "Sign up here",
+    "loginLink": "Login here"
+  },
+  
+  "dashboard": {
+    "welcome": "Welcome back",
+    "activeRequests": "Active Requests",
+    "earnings": "Earnings",
+    "rating": "Rating",
+    "completedTasks": "Completed Tasks",
+    "profile": "Profile",
+    "settings": "Settings",
+    "payments": "Payments",
+    "history": "History"
+  },
+  
+  "profile": {
+    "personalInfo": "Personal Information",
+    "skills": "Skills",
+    "availability": "Availability",
+    "serviceRadius": "Service Radius",
+    "hourlyRate": "Hourly Rate",
+    "idVerification": "ID Verification",
+    "backgroundCheck": "Background Check"
+  },
+  
+  "requestForm": {
+    "title": "Request Help",
+    "taskTitle": "What do you need help with?",
+    "description": "Describe your task in detail",
+    "budget": "Budget",
+    "urgency": "Urgency",
+    "location": "Location",
+    "urgent": "Urgent",
+    "normal": "Normal",
+    "flexible": "Flexible"
+  },
+  
+  "common": {
+    "loading": "Loading...",
+    "error": "Something went wrong",
+    "success": "Success!",
+    "save": "Save",
+    "edit": "Edit",
+    "delete": "Delete",
+    "search": "Search",
+    "filter": "Filter",
+    "sort": "Sort",
+    "currency": "€",
+    "perHour": "per hour",
+    "online": "Online",
+    "offline": "Offline",
+    "verified": "Verified",
+    "pending": "Pending",
+    "completed": "Completed",
+    "cancelled": "Cancelled"
+  },
+  
+  "footer": {
+    "about": "About",
+    "contact": "Contact",
+    "terms": "Terms & Conditions",
+    "privacy": "Privacy Policy",
+    "help": "Help Center",
+    "safety": "Safety",
+    "fees": "Fees",
+    "description": "HelperHand connects neighbors to make life easier for everyone. Safe, secure, and community-focused."
+  },
+  
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "fees": {
+      "question": "What are the fees?",
+      "answer": "Seekers pay 5% service fee, Helpers pay 10% commission per transaction."
+    },
+    "safety": {
+      "question": "How do you ensure safety?",
+      "answer": "All helpers undergo ID verification, and we offer payment protection with secure escrow."
+    },
+    "payments": {
+      "question": "How do payments work?",
+      "answer": "Payments are held in escrow until task completion. We support all major payment methods."
+    }
+  }
+}

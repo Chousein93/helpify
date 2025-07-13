@@ -1,0 +1,168 @@
+{
+  "appName": "HelperHand",
+  "tagline": "Nachbarn helfen Nachbarn",
+  "heroTitle": "Hilfe für alltägliche Aufgaben",
+  "heroSubtitle": "Verbinden Sie sich mit vertrauenswürdigen Helfern in Ihrer Gemeinde",
+  "heroTitleHelper": "Verdienen Sie Geld, indem Sie Ihrer Gemeinde helfen",
+  "heroSubtitleHelper": "Teilen Sie Ihre Fähigkeiten und machen Sie einen Unterschied",
+  
+  "navigation": {
+    "home": "Startseite",
+    "findHelp": "Hilfe finden",
+    "becomeHelper": "Helfer werden",
+    "dashboard": "Dashboard",
+    "messages": "Nachrichten",
+    "login": "Anmelden",
+    "signup": "Registrieren",
+    "logout": "Abmelden"
+  },
+  
+  "buttons": {
+    "getStarted": "Loslegen",
+    "requestHelp": "Hilfe anfordern",
+    "goOnline": "Online gehen",
+    "goOffline": "Offline gehen",
+    "submitRequest": "Anfrage senden",
+    "sendOffer": "Angebot senden",
+    "acceptOffer": "Angebot annehmen",
+    "markComplete": "Als erledigt markieren",
+    "saveChanges": "Änderungen speichern",
+    "cancel": "Abbrechen",
+    "confirm": "Bestätigen",
+    "back": "Zurück",
+    "next": "Weiter"
+  },
+  
+  "howItWorks": {
+    "title": "Wie es funktioniert",
+    "step1": {
+      "title": "Anfrage stellen",
+      "description": "Beschreiben Sie, wobei Sie Hilfe benötigen und setzen Sie Ihr Budget fest"
+    },
+    "step2": {
+      "title": "Helfer auswählen",
+      "description": "Durchsuchen Sie Angebote von verifizierten Helfern in Ihrer Nähe"
+    },
+    "step3": {
+      "title": "Sichere Zahlung",
+      "description": "Bezahlen Sie sicher über unsere Plattform mit Zahlungsschutz"
+    },
+    "step4": {
+      "title": "Bewerten",
+      "description": "Teilen Sie Ihre Erfahrung, um Vertrauen in unserer Gemeinde aufzubauen"
+    }
+  },
+  
+  "features": {
+    "verifiedHelpers": "Verifizierte Helfer",
+    "verifiedHelpersDesc": "Alle Helfer durchlaufen eine ID-Verifizierung für Ihre Sicherheit",
+    "securePayments": "Sichere Zahlungen",
+    "securePaymentsDesc": "Zahlungsschutz mit Treuhandservice",
+    "realTimeChat": "Echtzeit-Chat",
+    "realTimeChatDesc": "Kommunizieren Sie sicher mit Ihrem Helfer",
+    "communityRatings": "Gemeinschaftsbewertungen",
+    "communityRatingsDesc": "Lesen Sie Bewertungen von anderen Gemeinschaftsmitgliedern"
+  },
+  
+  "userTypes": {
+    "seeker": "Ich brauche Hilfe",
+    "helper": "Ich möchte helfen"
+  },
+  
+  "auth": {
+    "login": "Bei HelperHand anmelden",
+    "signup": "HelperHand beitreten",
+    "email": "E-Mail-Adresse",
+    "password": "Passwort",
+    "confirmPassword": "Passwort bestätigen",
+    "firstName": "Vorname",
+    "lastName": "Nachname",
+    "phone": "Telefonnummer",
+    "forgotPassword": "Passwort vergessen?",
+    "noAccount": "Noch kein Konto?",
+    "hasAccount": "Bereits ein Konto?",
+    "signupLink": "Hier registrieren",
+    "loginLink": "Hier anmelden"
+  },
+  
+  "dashboard": {
+    "welcome": "Willkommen zurück",
+    "activeRequests": "Aktive Anfragen",
+    "earnings": "Verdienste",
+    "rating": "Bewertung",
+    "completedTasks": "Erledigte Aufgaben",
+    "profile": "Profil",
+    "settings": "Einstellungen",
+    "payments": "Zahlungen",
+    "history": "Verlauf"
+  },
+  
+  "profile": {
+    "personalInfo": "Persönliche Informationen",
+    "skills": "Fähigkeiten",
+    "availability": "Verfügbarkeit",
+    "serviceRadius": "Serviceradius",
+    "hourlyRate": "Stundensatz",
+    "idVerification": "ID-Verifizierung",
+    "backgroundCheck": "Hintergrundprüfung"
+  },
+  
+  "requestForm": {
+    "title": "Hilfe anfordern",
+    "taskTitle": "Wobei benötigen Sie Hilfe?",
+    "description": "Beschreiben Sie Ihre Aufgabe detailliert",
+    "budget": "Budget",
+    "urgency": "Dringlichkeit",
+    "location": "Standort",
+    "urgent": "Dringend",
+    "normal": "Normal",
+    "flexible": "Flexibel"
+  },
+  
+  "common": {
+    "loading": "Lädt...",
+    "error": "Etwas ist schief gelaufen",
+    "success": "Erfolgreich!",
+    "save": "Speichern",
+    "edit": "Bearbeiten",
+    "delete": "Löschen",
+    "search": "Suchen",
+    "filter": "Filtern",
+    "sort": "Sortieren",
+    "currency": "€",
+    "perHour": "pro Stunde",
+    "online": "Online",
+    "offline": "Offline",
+    "verified": "Verifiziert",
+    "pending": "Ausstehend",
+    "completed": "Abgeschlossen",
+    "cancelled": "Storniert"
+  },
+  
+  "footer": {
+    "about": "Über uns",
+    "contact": "Kontakt",
+    "terms": "Geschäftsbedingungen",
+    "privacy": "Datenschutzrichtlinie",
+    "help": "Hilfezentrum",
+    "safety": "Sicherheit",
+    "fees": "Gebühren",
+    "description": "HelperHand verbindet Nachbarn, um das Leben für alle einfacher zu machen. Sicher, geschützt und gemeinschaftsorientiert."
+  },
+  
+  "faq": {
+    "title": "Häufig gestellte Fragen",
+    "fees": {
+      "question": "Wie hoch sind die Gebühren?",
+      "answer": "Hilfesuchende zahlen 5% Servicegebühr, Helfer zahlen 10% Provision pro Transaktion."
+    },
+    "safety": {
+      "question": "Wie gewährleisten Sie Sicherheit?",
+      "answer": "Alle Helfer durchlaufen eine ID-Verifizierung und wir bieten Zahlungsschutz mit sicherem Treuhand."
+    },
+    "payments": {
+      "question": "Wie funktionieren Zahlungen?",
+      "answer": "Zahlungen werden bis zur Aufgabenerledigung treuhänderisch verwaltet. Wir unterstützen alle gängigen Zahlungsmethoden."
+    }
+  }
+}
